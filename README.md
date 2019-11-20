@@ -1,5 +1,7 @@
 # Build a Calculator
 
+This calculator can do simple arithmetic calculations.
+
 ## Skills
 
 TODO
